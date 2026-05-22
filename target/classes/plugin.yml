@@ -1,8 +1,0 @@
-name: ProfileMenu
-version: 1.0
-main: org.profilemenu.ProfileMenu
-api-version: "1.21"
-commands:
-  profilemenu:
-    description: Comando principal del plugin
-    aliases: [pm]
