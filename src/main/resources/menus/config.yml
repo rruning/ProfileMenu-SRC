@@ -1,0 +1,12 @@
+menu:
+  title: "&#FB0202P&#FC0E0Er&#FC1919o&#FD2525f&#FE3030i&#FE3C3Cl&#FF4747e"
+  items:
+    "opcion_1":
+      slot: 2
+      material: DIAMOND
+      name: "&#00FF00Mi Perfil"
+      lore:
+        - "&7Click para ver info."
+      actions:
+        - "[message] &#00FF00¡Abriendo estadísticas!"
+        - "[message] &7Cargando datos..."

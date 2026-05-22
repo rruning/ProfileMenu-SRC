@@ -1,0 +1,7 @@
+join-item:
+  enabled: true
+  material: NETHER_STAR
+  slot: 4
+  name: "&#FB0202O&#FC0E0Ec&#FC1919u&#FD2525l&#FE3030t&#FE3C3Co&#FF4747s"
+  lore:
+    - "&7Click derecho para abrir tu perfil."
