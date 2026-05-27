@@ -12,5 +12,4 @@ material: PLAYER_HEAD
 If you want to display a fixed skin for everyone (like an Administrator, NPC, or famous creator), just add the username property below the material with the player's exact name.
 
 Example:
-material: PLAYER_HEAD
-username: "Notch"
+material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM4ZDllODY1ZTkwNWNhODc0NzhhODNhYzA2NjcwYjg0YjEyZTE4NzM4ZGEwMWMzZjg3M2EwYzc1MzUxMzk4MCJ9fX0=
